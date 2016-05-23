@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CA41AF66-C944-681A-5007-7827AC12EFBE}") = "VR_Lights", "Assembly-CSharp.csproj", "{C027D67A-05D2-54BF-15D9-991193E0CC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C027D67A-05D2-54BF-15D9-991193E0CC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C027D67A-05D2-54BF-15D9-991193E0CC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C027D67A-05D2-54BF-15D9-991193E0CC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C027D67A-05D2-54BF-15D9-991193E0CC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
